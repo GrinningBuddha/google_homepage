@@ -1,0 +1,1 @@
+This is assignment one for The Odin Project with some HTML and CSS basics.
